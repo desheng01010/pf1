@@ -1,6 +1,6 @@
-/*let p=53
+let p=53
 console.log(p)
-console.log(typeof p)*/
+console.log(typeof p)
 
 /*let food = "nasi lemak"
 console.log(food)
